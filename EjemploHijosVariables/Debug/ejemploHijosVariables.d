@@ -1,0 +1,1 @@
+ejemploHijosVariables.o: ../ejemploHijosVariables.c

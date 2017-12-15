@@ -1,0 +1,1 @@
+ejemploExecl.o: ../ejemploExecl.c

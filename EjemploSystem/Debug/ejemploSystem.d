@@ -1,0 +1,1 @@
+ejemploSystem.o: ../ejemploSystem.c
